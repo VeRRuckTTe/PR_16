@@ -1,0 +1,7 @@
+D:\Учеба (С#)\PR_16\bin\Debug\PR_16.exe.config
+D:\Учеба (С#)\PR_16\bin\Debug\PR_16.exe
+D:\Учеба (С#)\PR_16\bin\Debug\PR_16.pdb
+D:\Учеба (С#)\PR_16\obj\Debug\PR_16.csproj.AssemblyReference.cache
+D:\Учеба (С#)\PR_16\obj\Debug\PR_16.csproj.CoreCompileInputs.cache
+D:\Учеба (С#)\PR_16\obj\Debug\PR_16.exe
+D:\Учеба (С#)\PR_16\obj\Debug\PR_16.pdb
